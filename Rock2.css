@@ -1,0 +1,92 @@
+.bg-container{
+    background-color:#1b1b1b;
+    background-size:cover;
+    
+}
+.head1{
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size:36px;
+}
+.card1{
+    background-color: #e6f6ff;
+    background-size: cover;
+    border-radius: 10px;
+    height: 300px;
+    width: 100%;
+    
+}
+.image1{
+    height: 300px;
+    width: 40%;
+}
+.head2{
+    color: #183b56;
+    font-family: "Roboto";
+    font-size:35px;
+    font-weight: bold;
+}
+.pa1{
+    color:#06070d;
+    font-family: "Roboto";
+    font-size:25px;
+    font-weight: bold;
+}
+.pa2{
+    color:#183b56;
+    font-family: "Roboto";
+    font-size:18px;   
+}
+.main-head1{
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size:28px;
+}
+.image2{
+    height: 240px;
+    width: 230px;
+}
+.head3{
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size:35px;
+    font-weight: bold;
+}
+.pa3{
+    color:#9aa5b1;
+    font-family: "Roboto";
+    font-size:25px;
+    
+}
+.pa4{
+    color:#9aa5b1;
+    font-family: "Roboto";
+    font-size:16px;  
+    
+}
+
+.image3{
+    height: 330px;
+    width: 300px;
+    text-align: center;
+}
+.pa8 {
+    color: #e4e7eb;
+    font-family: "Bree Serif";
+    font-size: 20px;
+    text-align: left;
+    margin: 15px;
+    
+}
+.bu3{
+    width: 70px;
+    font-size:13px;
+    font-weight: bold;
+}
+.bu4{
+    width: 100px;
+    font-size:13px;
+    font-weight: bold;
+}
